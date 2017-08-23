@@ -1,1 +1,1 @@
-# project-obsidian
+# Project Obsidian
